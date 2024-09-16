@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/TIM/session5/ProjetAgile/Tp03/A24_PA_AxisAnima/AxisAnima/Content/UI/UI_game.uasset",
+				"F:/TIM/session5/ProjetAgile/Tp03/A24_PA_AxisAnima/AxisAnima/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"F:/TIM/session5/ProjetAgile/Tp03/A24_PA_AxisAnima/AxisAnima/Content/UI/PauseInGame.uasset",
+				"F:/TIM/session5/ProjetAgile/Tp03/A24_PA_AxisAnima/AxisAnima/Content/UI/MenuPrincipale.uasset",
+				"F:/TIM/session5/ProjetAgile/Tp03/A24_PA_AxisAnima/AxisAnima/Content/UI/Controle.uasset",
+				"F:/TIM/session5/ProjetAgile/Tp03/A24_PA_AxisAnima/AxisAnima/Content/LevelPrototyping/MainMenu.umap"
+			]
+		}
+	]
+}
