@@ -5,12 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"F:/Repo/A24_PA_AxisAnima/AxisAnima/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"F:/Repo/A24_PA_AxisAnima/AxisAnima/Content/__ExternalActors__/Maps/Tests/GameplayTest/9/TH/XTD4VLP6NW1EE88UN160YE.uasset",
 				"F:/Repo/A24_PA_AxisAnima/AxisAnima/Content/__ExternalActors__/Maps/Tests/GameplayTest/1/JL/VMGMC60394CZL3O1FFR0IJ.uasset",
 				"F:/Repo/A24_PA_AxisAnima/AxisAnima/Content/__ExternalActors__/Maps/Tests/GameplayTest/4/Y8/CKPTJTS3N6PIQWONPAXSZN.uasset",
 				"F:/Repo/A24_PA_AxisAnima/AxisAnima/Content/__ExternalActors__/Maps/Tests/GameplayTest/2/GQ/3NJDC5ESQ2E1BNPWQVIOTG.uasset",
 				"F:/Repo/A24_PA_AxisAnima/AxisAnima/Content/__ExternalActors__/Maps/Tests/GameplayTest/4/US/7DPWG6P4M8H20W0VCMYARQ.uasset"
+=======
+				"F:/TIM/session5/ProjetAgile/Tp03/A24_PA_AxisAnima/AxisAnima/Content/Maps/Tests/MainMenu.umap",
+				"F:/TIM/session5/ProjetAgile/Tp03/A24_PA_AxisAnima/AxisAnima/Content/UI/MenuPrincipale.uasset",
+				"F:/TIM/session5/ProjetAgile/Tp03/A24_PA_AxisAnima/AxisAnima/Content/Maps/Tests/GameplayTest.umap"
+>>>>>>> Stashed changes
 			]
 		}
 	]
