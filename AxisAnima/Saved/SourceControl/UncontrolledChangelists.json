@@ -5,21 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-				"F:/TIM/session5/ProjetAgile/Tp03/A24_PA_AxisAnima/AxisAnima/Content/UI/IMG/mouseTest.uasset",
-				"F:/TIM/session5/ProjetAgile/Tp03/A24_PA_AxisAnima/AxisAnima/Content/UI/MouseCursor.uasset",
-				"F:/TIM/session5/ProjetAgile/Tp03/A24_PA_AxisAnima/AxisAnima/Content/UI/MouseCursor01.uasset",
-				"F:/TIM/session5/ProjetAgile/Tp03/A24_PA_AxisAnima/AxisAnima/Content/UI/UI_game.uasset"
-=======
-				"F:/Repo/A24_PA_AxisAnima/AxisAnima/Content/__ExternalActors__/Maps/Tests/GameplayTest/4/Y8/CKPTJTS3N6PIQWONPAXSZN.uasset",
-				"F:/Repo/A24_PA_AxisAnima/AxisAnima/Content/Blueprints/Character/BP_MainThirdPersonCharacter.uasset",
-				"F:/Repo/A24_PA_AxisAnima/AxisAnima/Content/Input/IMC_Default.uasset",
-				"F:/Repo/A24_PA_AxisAnima/AxisAnima/Content/__ExternalActors__/Maps/Tests/GameplayTest/0/2L/JN4TA00VJ6SM368WPOPUZH.uasset",
-				"F:/Repo/A24_PA_AxisAnima/AxisAnima/Content/__ExternalActors__/Maps/Tests/GameplayTest/6/8C/42EQXDVGJAY0KXJJKO00FV.uasset",
-				"F:/Repo/A24_PA_AxisAnima/AxisAnima/Content/__ExternalActors__/Maps/Tests/GameplayTest/4/TO/L077J8CH64FXJVYXY3GJXY.uasset",
-				"F:/Repo/A24_PA_AxisAnima/AxisAnima/Content/__ExternalActors__/Maps/Tests/GameplayTest/2/GQ/3NJDC5ESQ2E1BNPWQVIOTG.uasset",
-				"F:/Repo/A24_PA_AxisAnima/AxisAnima/Content/__ExternalActors__/Maps/Tests/GameplayTest/A/L1/XULFN5K3OXANZROD9RRVCX.uasset"
->>>>>>> Stashed changes
+				"F:/TIM/session5/ProjetAgile/Tp03/A24_PA_AxisAnima/AxisAnima/Content/Niveau/GYM/gymSaut.umap",
+				"F:/TIM/session5/ProjetAgile/Tp03/A24_PA_AxisAnima/AxisAnima/Content/Blueprints/Character/BP_MainThirdPersonCharacter.uasset"
 			]
 		}
 	]
